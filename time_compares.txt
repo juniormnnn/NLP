@@ -1,0 +1,5 @@
+Framework Performance Comparison
+================================
+NLTK Time     : 0.0044 seconds
+TextBlob Time : 0.0029 seconds
+spaCy Time    : 0.0560 seconds

@@ -1,0 +1,5 @@
+--- SENTENCES (Sample) ---
+DOCTYPE HTML PUBLIC IETFDTD HTML 2.0EN htmlhead title404 Not Foundtitle headbody h1Not Foundh1 pThe requested URL was not found on this server.p hr addressApache Server at a hrefmailtowebmastercosc.canterbury.ac.nzcorpus.canterbury.ac.nza Port 443address bodyhtml
+
+--- TOKENS (Sample) ---
+['DOCTYPE', 'HTML', 'PUBLIC', 'IETFDTD', 'HTML', 'htmlhead', 'title404', 'Foundtitle', 'headbody', 'h1Not', 'Foundh1', 'pThe', 'requested', 'URL', 'found', 'hr', 'addressApache', 'Server', 'Port', '443address']
